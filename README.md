@@ -1,6 +1,6 @@
-# 🎧 Content-Based Recommendation System (Spotify / Netflix Style)
+# 🎧 Spotify Recommendation System 
 
-This project is a **Content-Based Recommendation System** inspired by platforms like **Spotify** and **Netflix**.  
+This project is a **Content-Based Recommendation System** inspired by platforms like **Spotify**.  
 It recommends similar songs or shows based on **genre similarity** using **Cosine Similarity**.
 
 https://huggingface.co/spaces/sevvaliclal/SpotifyRecommendationSystemApp
